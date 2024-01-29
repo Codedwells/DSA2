@@ -9,7 +9,7 @@ function removeDuplicates(nums) {
       i--
     }
   }
-  return nums.length
+  return nums
 }
 
 /*Question Two (2) - Rotate Array*/
